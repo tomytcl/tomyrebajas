@@ -1,0 +1,24 @@
+/* Start Viewport desktop */
+.content-full > .content-inner > [objtype], .content-full > .content-inner > shared > [objtype] { min-width:980px; }
+.content-fixed > .content-inner { width:980px; }
+.wse-men > nav { display:block; }
+.wse-men .menu-toggle { display:none; }
+body { background-color:#ffffff; background-repeat:repeat; background-size:auto; background-position:0 0; background-attachment:initial; background-image:none; -moz-background-size:auto; -webkit-background-size:auto; }
+header, header > #header-wrap { height:131px; }
+header { margin-top:0px; margin-bottom:0px; }
+footer, footer > #footer-wrap { height:262px; }
+footer { margin-top:0px; margin-bottom:0px; }
+#body-content { min-height:350px; }
+#staticMenu_175 { top:35px; left:116px; width:842px; height:92px; z-index:9920; }
+#txtBox_187 { top:30px; left:83px; width:404px; height:28px; z-index:101; }
+#body-content, header, header > #header-wrap, footer, footer > #footer-wrap { min-width:980px; }
+#ftr_socialBar_221 { top:126px; left:429px; width:121px; height:35px; z-index:103; }
+#ftr_socialBar_221 .wse-ico { font-size:30px; }
+#ftr_socialBar_221 .wse-ico-set { padding-top:0px; padding-left:0.5px; }
+#ftr_socialBar_221 .ico-link { font-size:1em; width:30px; height:30px; margin-top:2.5px; }
+#ftr_socialBar_221 .ico-link i { line-height:30px; }
+#hdr_imageContainer_221 { top:7px; left:0px; width:74px; height:74px; z-index:102; }
+#hdr_imageContainer_221 img { margin-top:0px; margin-left:0px; width:74px; height:74px; }
+#ftr_imageContainer_222 { top:48px; left:465px; width:50px; height:50px; z-index:104; }
+#ftr_imageContainer_222 img { margin-top:0px; margin-left:0px; width:50px; height:50px; }
+/* End Viewport desktop */

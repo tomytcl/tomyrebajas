@@ -1,0 +1,13 @@
+#body-content { height:404px; }
+.clr-brd-hextransparent { border-color:transparent!important; }
+.clr-bkg-hextransparent { background-color:transparent!important; }
+.wse-personalize#video_186 .wseI { border-width:0.00px; -moz-box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.7); -webkit-box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.7); box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.7); }
+.wse-personalize#video_186 .content-fixed .wseSHTL, .wse-personalize#video_186 .content-fixed .wseSHBL, .wse-personalize#video_186 .content-fixed .wseSHBR { display:block; position:absolute; bottom:-14px; height:14px; background-image:url(//cdn.secure.website/library/images/effects/rounded-shadow-hq.png); }
+.wse-personalize#video_186 .content-fixed .wseSHTL { background-position:0px -29px; width:100px; left:0px; }
+.wse-personalize#video_186 .content-fixed .wseSHBL { background-position:0px 0px; right:100px; left:100px; }
+.wse-personalize#video_186 .content-fixed .wseSHBR { background-position:100% -29px; width:100px; right:0px; }
+.wse-personalize#btnTool_211 .wseA { border-width:1px; -moz-border-radius:0; -webkit-border-radius:0; border-radius:21px 21px 21px 21px; overflow:hidden; }
+.wse-personalize#btnTool_211 .wseA .wseT { padding-left:1px; padding-right:1px; }
+#txtBox_213 .fs-30 { font-size:30px; }
+#txtBox_214 .fs-40 { font-size:40px; }
+#txtBox_214 .fs-29 { font-size:29px; }
